@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyProjects\\CalculatorWithOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\mathoperators\\addoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\mathoperators\\addoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\base\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\base\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\mathoperators\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\mathoperators\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\mathoperators\\suboperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\mathoperators\\suboperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\mathoperators\\dividoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\mathoperators\\dividoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|f:\\myprojects\\calculatorwithoop\\calculatorwithoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477A700-FD40-4C11-A4E9-5FE1D1F8BCB6}|CalculatorWithOOP\\CalculatorWithOOP.csproj|solutionrelative:calculatorwithoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubOperator.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\SubOperator.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\MathOperators\\SubOperator.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\SubOperator.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\MathOperators\\SubOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:48:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiplyOperator.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\MultiplyOperator.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\MathOperators\\MultiplyOperator.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\MultiplyOperator.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\MathOperators\\MultiplyOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:47:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DividOperator.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\DividOperator.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\MathOperators\\DividOperator.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\DividOperator.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\MathOperators\\DividOperator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:47:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOperator.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\AddOperator.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\MathOperators\\AddOperator.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\MathOperators\\AddOperator.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\MathOperators\\AddOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:46:39.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperation.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\Base\\MathOperation.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\Base\\MathOperation.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\Base\\MathOperation.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\Base\\MathOperation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:45:47.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWithOOP\\Program.cs",
+              "ToolTip": "F:\\MyProjects\\CalculatorWithOOP\\CalculatorWithOOP\\Program.cs",
+              "RelativeToolTip": "CalculatorWithOOP\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:43:15.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
